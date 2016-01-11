@@ -1,0 +1,12 @@
+/*Css file*/
+body{
+  margin:auto;
+  width:90%;
+  background-color:lightgrey;
+  border-left: 7px solid black;
+  border-right:7px  solid #000000;
+}
+h1{
+  color:green;
+  text-align:middle;
+}
